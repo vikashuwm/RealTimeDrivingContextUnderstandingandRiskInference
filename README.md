@@ -1,3 +1,1 @@
-# HighwayMind
-Living Organism and Human Detection System for Highways
-which will detect both humans and animals on highways or freeways, assess their movements, and provide real-time alerts or take automated actions to prevent accidents and enhance safety.
+real-time system that enables vehicles to not only detect objects but also understand the overall driving scene, interpret the context of dynamic events, and assess potential risks.
